@@ -1,2 +1,2 @@
-# Python
-Machine learning practice
+# Exercise 1
+Tweets analysis
